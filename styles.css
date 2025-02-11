@@ -68,7 +68,7 @@ body {
 }
 
 #start, #reset {
-    background-color: #007bff;
+    background-color: red;
     color: white;
     border: none;
     padding: 8px 16px;
